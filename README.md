@@ -1,2 +1,2 @@
-# U2A-generator
+# U2A generator
 Universe generator
