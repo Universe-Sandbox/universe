@@ -1,0 +1,6 @@
+package galaxy
+
+/*
+	- elliptical
+	- spiral
+*/
